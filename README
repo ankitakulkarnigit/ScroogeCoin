@@ -13,6 +13,7 @@ $javac -cp scroogeCoinGrader.jar;rsa.jar;algs4.jar;. TestMaxFeeTxHandler.java
 $java -cp scroogeCoinGrader.jar;rsa.jar;algs4.jar;. TestMaxFeeTxHandler
 
 Note: If you are using IDE like eclipse, just add jar files to your build path and create a folder for all text files within the working directory of your code.
+Replace ; with : when working on MacOS
 
 Jar Files:
 
