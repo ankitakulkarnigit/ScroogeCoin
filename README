@@ -1,6 +1,9 @@
 Description:
 
-In ScroogeCoin, the central authority Scrooge receives transactions from users. In this project we implemented the logic used by Scrooge to process transactions and produce the ledger. Scrooge organizes transactions into time periods or blocks. In each block, Scrooge will receive a list of transactions, validate the transactions he receives, and publish a list of validated transactions.
+In ScroogeCoin, the central authority Scrooge receives transactions from users. 
+In this project we implemented the logic used by Scrooge to process transactions and produce the ledger. 
+Scrooge organizes transactions into time periods or blocks. 
+In each block, Scrooge will receive a list of transactions, validate the transactions he receives, and publish a list of validated transactions.
 
 Instructions:
 
